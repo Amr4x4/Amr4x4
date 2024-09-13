@@ -55,10 +55,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h1 align="center"> GitHub Overview </h1>
-<p align="center">
-  <img align="center" width="100%" src="https://github.com/AbdelrhmanReda17/AbdelrhmanReda17/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+
 
 <table>
   <tr>
